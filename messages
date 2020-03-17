@@ -1,0 +1,195 @@
+2020-03-17 16:34:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:34:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:34:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:34:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:34:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:34:36 ERROR Downloader:29 - java.net.ConnectException: Failed to connect to www.badway.ru/185.125.59.73:443
+2020-03-17 16:34:36 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:33 INFO  Downloader:26 - CB api call
+2020-03-17 16:35:35 ERROR Downloader:29 - java.net.ConnectException: Failed to connect to www.badway.ru/185.125.59.73:443
+2020-03-17 16:35:36 INFO  Downloader:26 - CB api call
+2020-03-17 16:37:33 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 16:37:33 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 16:37:33 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 16:37:33 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 16:37:33 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 16:37:36 ERROR Downloader:29 - java.net.ConnectException: Failed to connect to www.badway.ru/185.125.59.73:443
+2020-03-17 16:37:36 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:12 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:13 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:13 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:13 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:13 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:13 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:13 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:13 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:13 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:13 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:15 ERROR Downloader:29 - java.net.ConnectException: Failed to connect to www.badway.ru/185.125.59.73:443
+2020-03-17 17:03:15 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:52 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:03:53 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:53 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:03:53 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:03:53 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:18:35 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:18:35 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:18:35 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:18:35 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:18:35 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:04 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:04 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:04 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:05 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:05 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:05 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:05 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:05 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:05 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:05 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:05 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:05 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:05 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:06 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:06 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:06 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:06 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:06 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:06 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:06 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:06 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:06 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:06 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:06 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:06 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:07 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:07 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:07 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:07 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:07 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:07 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:07 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:07 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:07 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:07 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:07 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:07 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:07 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:08 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:08 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:08 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:08 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:08 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:08 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:08 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:10 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:10 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:10 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:10 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:10 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:11 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:19:11 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:11 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:19:11 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:19:11 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:20:39 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:20:39 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:20:39 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:20:40 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:20:40 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:20:40 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:20:41 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:20:41 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:20:41 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:20:42 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:20:42 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:20:42 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:20:47 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:20:47 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:20:47 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:21:48 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:21:48 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:21:48 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:27:38 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:27:39 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:29:02 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:29:02 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:29:02 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:29:03 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:29:03 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:31:40 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:31:41 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:31:41 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:31:42 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:31:42 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:31:42 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:32:25 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:32:25 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:32:25 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:46:01 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:46:01 INFO  DailyValCursServiceImpl:31 - Data in DataBase is old. Need to update
+2020-03-17 17:46:01 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:46:01 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:46:01 INFO  DailyValCursServiceImpl:49 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:46:02 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:46:02 INFO  DailyValCursServiceImpl:31 - Data in DataBase is old. Need to update
+2020-03-17 17:46:02 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:46:02 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:46:02 INFO  DailyValCursServiceImpl:49 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:46:28 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:46:28 INFO  DailyValCursServiceImpl:31 - Data in DataBase is old. Need to update
+2020-03-17 17:46:28 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:46:28 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:46:28 INFO  DailyValCursServiceImpl:49 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:46:39 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:46:39 INFO  DailyValCursServiceImpl:31 - Data in DataBase is old. Need to update
+2020-03-17 17:46:39 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:46:39 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:46:39 INFO  DailyValCursServiceImpl:49 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:48:42 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:48:42 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:48:42 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:48:42 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:48:42 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:48:52 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:48:52 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:48:52 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:48:52 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:48:52 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:49:45 INFO  ConverterController:25 - Request from 127.0.0.1
+2020-03-17 17:49:45 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:49:45 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:49:45 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:49:45 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:49:53 INFO  ConverterController:25 - Request from 127.0.0.1
+2020-03-17 17:49:53 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:49:53 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:49:53 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:49:53 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:50:58 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:50:59 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:50:59 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:50:59 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:50:59 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:51:00 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:51:00 INFO  DailyValCursServiceImpl:32 - Data in DataBase is old. Need to update
+2020-03-17 17:51:00 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:51:00 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:51:00 INFO  DailyValCursServiceImpl:50 - Currency courses updated. DataBase is up to date!
+2020-03-17 17:52:01 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:52:01 INFO  DailyValCursServiceImpl:79 - 78
+2020-03-17 17:52:01 INFO  DailyValCursServiceImpl:80 - 77
+2020-03-17 17:52:01 INFO  DailyValCursServiceImpl:29 - Database is up to date
+2020-03-17 17:53:50 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:53:50 INFO  Downloader:26 - CB api call requested URl: https://www.cbr-xml-daily.ru/daily_utf8.xml
+2020-03-17 17:53:50 INFO  CurrencyUpdater:38 - Daily ValCurs downloaded date 2020-03-18
+2020-03-17 17:53:50 INFO  DailyValCursServiceImpl:40 - DataBase created for the first time date: 2020-03-18
+2020-03-17 17:53:50 INFO  DailyValCursServiceImpl:29 - Database is up to date
+2020-03-17 17:54:16 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:54:16 INFO  DailyValCursServiceImpl:29 - Database is up to date
+2020-03-17 17:54:24 INFO  ConverterController:25 - Request from 0:0:0:0:0:0:0:1
+2020-03-17 17:54:24 INFO  DailyValCursServiceImpl:29 - Database is up to date

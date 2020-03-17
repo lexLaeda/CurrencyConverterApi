@@ -6,4 +6,5 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface ValCursRepository extends JpaRepository<ValCurs,Long> {
+    ValCurs findByName(String name);
 }

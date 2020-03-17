@@ -27,7 +27,7 @@ public class CurencyUpdaterTest {
 
         assertNotNull(valCurs.getCurrencies());
 
-        assertEquals(34,valCurs.getCurrencies().size());
+        assertEquals(35,valCurs.getCurrencies().size());
 
         assertEquals("Foreign Currency Market", valCurs.getName());
 

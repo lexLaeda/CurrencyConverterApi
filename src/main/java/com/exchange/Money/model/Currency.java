@@ -11,6 +11,7 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import org.hibernate.validator.constraints.UniqueElements;
 
 
 import javax.persistence.*;
@@ -37,9 +38,11 @@ public class Currency {
     @JsonProperty("id")
     private String currencyId;
 
+
     @XmlElement(name = "NumCode")
     @JsonProperty("num_code")
     private Integer numCode;
+
 
     @XmlElement(name = "CharCode")
     @JsonProperty("char_code")
@@ -57,4 +60,45 @@ public class Currency {
     @ManyToMany(mappedBy = "currencies")
     @JsonIgnore
     private ValCurs valCurs;
+
+    public static class Builder {
+        private Currency newCurrency;
+
+        public Builder(){
+            newCurrency = new Currency();
+        }
+        public Builder addId(String currencyId) {
+            newCurrency.currencyId = currencyId;
+            return this;
+        }
+
+        public Builder addNumCode(Integer numCode) {
+            newCurrency.numCode = numCode;
+            return this;
+        }
+
+        public Builder addCharCode(String charCode) {
+            newCurrency.charCode = charCode;
+            return this;
+        }
+
+        public Builder addNominal(Integer nominal) {
+            newCurrency.nominal = nominal;
+            return this;
+        }
+
+        public Builder addValue(BigDecimal value) {
+            newCurrency.value = value;
+            return this;
+        }
+
+        public Builder addValCurs(ValCurs valCurs) {
+            newCurrency.valCurs = valCurs;
+            return this;
+        }
+
+        public Currency build() {
+            return newCurrency;
+        }
+    }
 }

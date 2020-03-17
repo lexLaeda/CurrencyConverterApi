@@ -59,16 +59,16 @@ public class ConverterServiceImpl implements ConverterService {
         BigDecimal tarNominal = new BigDecimal(targetCurrency.getNominal());
         BigDecimal cusCurse = customerCurrency.getValue();
         BigDecimal tarCurse = targetCurrency.getValue();
-        customerAmount = customerAmount.setScale(SCALE,RoundingMode.HALF_UP);
+        customerAmount = customerAmount.setScale(SCALE, RoundingMode.HALF_UP);
         return convertMoney(cusCurse, cusNominal, customerAmount, tarCurse, tarNominal);
     }
 
-    public BigDecimal convertMoney(BigDecimal cusCurse, BigDecimal cusNominal,
+    private BigDecimal convertMoney(BigDecimal cusCurse, BigDecimal cusNominal,
                                     BigDecimal customerAmount, BigDecimal tarCurse, BigDecimal tarNominal) {
-        BigDecimal cusKoef = cusCurse.divide(cusNominal,SCALE, RoundingMode.HALF_UP);
-        BigDecimal tarKoef = tarCurse.divide(tarNominal,SCALE, RoundingMode.HALF_UP);
-        BigDecimal ConvertKoef = cusKoef.divide(tarKoef,SCALE, RoundingMode.HALF_UP);
-        return customerAmount.multiply(ConvertKoef).setScale(SCALE,RoundingMode.HALF_UP);
+        BigDecimal cusKoef = cusCurse.divide(cusNominal, SCALE, RoundingMode.HALF_UP);
+        BigDecimal tarKoef = tarCurse.divide(tarNominal, SCALE, RoundingMode.HALF_UP);
+        BigDecimal ConvertKoef = cusKoef.divide(tarKoef, SCALE, RoundingMode.HALF_UP);
+        return customerAmount.multiply(ConvertKoef).setScale(SCALE, RoundingMode.HALF_UP);
     }
 
 
